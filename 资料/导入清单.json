@@ -1,0 +1,1174 @@
+{
+  "schema_version": 1,
+  "import_date": "2026-10-17",
+  "timezone": "Asia/Shanghai",
+  "source": "用户上传的Documents两个分卷；不是完整电脑Documents目录扫描。",
+  "source_parts": [
+    {
+      "name": "Documents.7z.001",
+      "bytes": 25165824,
+      "sha256": "301a0eace7b654bd8e8cebdc86885d6e3387c67f415970d3073c54a2bf94e99b"
+    },
+    {
+      "name": "Documents.7z.002",
+      "bytes": 20905184,
+      "sha256": "ed29971755b104736114199690762205b5d91c3e2fc118da3fed3dd374ea70fb"
+    }
+  ],
+  "combined_archive_sha256": "fb0cceb05d7d33e8183f78a179eb82ce24aff462b177d9f0acbc027a58605897",
+  "file_count": 24,
+  "total_bytes": 45349777,
+  "pdf_page_count": 176,
+  "originals_preserved": false,
+  "scope": "题型参考，不限定全部知识点，不能用于认定用户当前进度、掌握度或真实成绩。",
+  "files": [
+    {
+      "id": 1,
+      "path": "九上英语· 东湖高新区期中【试卷+答案】2025-2026.pdf",
+      "bytes": 543312,
+      "sha256": "db8de10f7dbfd8683174f9a1e36b624008785f06b1ce731ffbf11d1909ab558f",
+      "pages": 10,
+      "text_chars": 14943,
+      "page_text_chars": [
+        1122,
+        1473,
+        1460,
+        1911,
+        1700,
+        2030,
+        2206,
+        1708,
+        1324,
+        9
+      ],
+      "encrypted": false,
+      "subject": "英语",
+      "repository_path": "资料/原始资料/九上英语· 东湖高新区期中【试卷+答案】2025-2026.pdf",
+      "purpose": "仅作题型、设问与难度参考，不限定完整课程范围，不视为本人作答。",
+      "analysis": {
+        "id": 1,
+        "review": "已读取1—9页文本并浏览全卷缩略图；第10页图片答案已放大读取，未逐题核验答案。",
+        "topics": [
+          "学习生活平衡邮件",
+          "机器人新闻",
+          "机场规则",
+          "犬类行为",
+          "漆扇",
+          "尤克里里课"
+        ],
+        "notes": [
+          "试题1—9页，答案/范文10页；答案页脚标共3页而文件仅附1页。",
+          "英语卷120分；作文81题20分，约100词。",
+          "仅作为题型和资料参考，不代表完整知识范围或用户本人作答。"
+        ]
+      },
+      "rendering": {
+        "pages_checked": 10,
+        "all_pages_rendered": true,
+        "method": "PyMuPDF低分辨率逐页渲染，检查可见内容；不等同于逐字阅读或逐题验算。"
+      },
+      "substantive_text_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "text_layer_note": "字数可能包含水印；没有有效题目文本层的页须查看原图。",
+      "source_sha256": "f9d0ac60e18141db261b8736fb53667197406c71ae7ebc32e242f01611af5e32",
+      "privacy_processing": "已清除文档作者及身份元数据；PDF页面内容流或DOCX正文等其他条目校验未改动。原始备份仅在仓库外。"
+    },
+    {
+      "id": 2,
+      "path": "九上英语· 东西湖区期中【试卷+答案】2025-2026.pdf",
+      "bytes": 471972,
+      "sha256": "90ba60d514894344b2b858b5ff40ea80d87c6df3cbc94256bc771cf7e37ad63d",
+      "pages": 11,
+      "text_chars": 17849,
+      "page_text_chars": [
+        1168,
+        1422,
+        1392,
+        2062,
+        1488,
+        1657,
+        2196,
+        2193,
+        1316,
+        1657,
+        1298
+      ],
+      "encrypted": false,
+      "subject": "英语",
+      "repository_path": "资料/原始资料/九上英语· 东西湖区期中【试卷+答案】2025-2026.pdf",
+      "purpose": "仅作题型、设问与难度参考，不限定完整课程范围，不视为本人作答。",
+      "analysis": {
+        "id": 2,
+        "review": "已读取题型、阅读/填空、作文与第11页答案文本，并浏览全卷缩略图。",
+        "topics": [
+          "学中文与传统节日书信",
+          "公益分享",
+          "蜜蜂保护",
+          "古琴",
+          "蝙蝠",
+          "孔明灯",
+          "中国画"
+        ],
+        "notes": [
+          "试题1—10页，答案/范文11页。",
+          "完形题实际36—50，答案题号印作41—55，评分前须按顺序核对。",
+          "仅作为题型和资料参考，不代表完整知识范围或用户本人作答。"
+        ]
+      },
+      "rendering": {
+        "pages_checked": 11,
+        "all_pages_rendered": true,
+        "method": "PyMuPDF低分辨率逐页渲染，检查可见内容；不等同于逐字阅读或逐题验算。"
+      },
+      "substantive_text_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "text_layer_note": "字数可能包含水印；没有有效题目文本层的页须查看原图。",
+      "source_sha256": "3fc898138f6fd668e02437a6a14804a2914b217f864d33c1170ed31f522f9346",
+      "privacy_processing": "已清除文档作者及身份元数据；PDF页面内容流或DOCX正文等其他条目校验未改动。原始备份仅在仓库外。"
+    },
+    {
+      "id": 3,
+      "path": "九上英语· 武昌区期中【试卷+答案】2025-2026.pdf",
+      "bytes": 2343245,
+      "sha256": "6dd6f1d71cf64955858c3d2fd5db3328d20a4c659bd469f638a7b1fb0744cbba",
+      "pages": 12,
+      "text_chars": 108,
+      "page_text_chars": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "encrypted": false,
+      "subject": "英语",
+      "repository_path": "资料/原始资料/九上英语· 武昌区期中【试卷+答案】2025-2026.pdf",
+      "purpose": "仅作题型、设问与难度参考，不限定完整课程范围，不视为本人作答。",
+      "analysis": {
+        "id": 3,
+        "review": "12页扫描卷逐页缩略图浏览；放大第10—12页填空、作文、答案，核对全卷题型。",
+        "topics": [
+          "好习惯及积极变化",
+          "科技新闻",
+          "乡村医生",
+          "珊瑚升温",
+          "水果颜色",
+          "中外饮食文化"
+        ],
+        "notes": [
+          "作文10—11页，答案/范文12页。",
+          "第6、7个PDF页面重复呈现同一段阅读内容。",
+          "仅作为题型和资料参考，不代表完整知识范围或用户本人作答。"
+        ]
+      },
+      "rendering": {
+        "pages_checked": 12,
+        "all_pages_rendered": true,
+        "method": "PyMuPDF低分辨率逐页渲染，检查可见内容；不等同于逐字阅读或逐题验算。"
+      },
+      "substantive_text_pages": [],
+      "text_layer_note": "字数可能包含水印；没有有效题目文本层的页须查看原图。",
+      "source_sha256": "f8e17c1d5d68a53d84015d19789ba93857742b1e687feb636ecdbc73d30c66b0",
+      "privacy_processing": "已清除文档作者及身份元数据；PDF页面内容流或DOCX正文等其他条目校验未改动。原始备份仅在仓库外。"
+    },
+    {
+      "id": 4,
+      "path": "九上英语· 汉阳区期中【试卷+答案】2025-2026.pdf",
+      "bytes": 437413,
+      "sha256": "80cbadbff516107a80afffb71907f4efe74a7197cc52a087b6e1bec62d052b17",
+      "pages": 9,
+      "text_chars": 17938,
+      "page_text_chars": [
+        1227,
+        1364,
+        1866,
+        2411,
+        2207,
+        2547,
+        2623,
+        2434,
+        1259
+      ],
+      "encrypted": false,
+      "subject": "英语",
+      "repository_path": "资料/原始资料/九上英语· 汉阳区期中【试卷+答案】2025-2026.pdf",
+      "purpose": "仅作题型、设问与难度参考，不限定完整课程范围，不视为本人作答。",
+      "analysis": {
+        "id": 4,
+        "review": "已读取9页文本的题型、阅读/填空和作文，并逐页浏览缩略图核对是否有答案。",
+        "topics": [
+          "志愿者介绍武汉",
+          "传统节日与中文学习",
+          "语言学习软件",
+          "低头症",
+          "荔枝保鲜",
+          "重阳节",
+          "竹子"
+        ],
+        "notes": [
+          "标题虽写试卷+答案，实际9页未找到答案页。",
+          "作文9页，20分，约100词。",
+          "仅作为题型和资料参考，不代表完整知识范围或用户本人作答。"
+        ]
+      },
+      "rendering": {
+        "pages_checked": 9,
+        "all_pages_rendered": true,
+        "method": "PyMuPDF低分辨率逐页渲染，检查可见内容；不等同于逐字阅读或逐题验算。"
+      },
+      "substantive_text_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "text_layer_note": "字数可能包含水印；没有有效题目文本层的页须查看原图。",
+      "source_sha256": "7187b4acfa4b523f1e3b35705136cb8668364335b4720336ee1bd44520b5ce64",
+      "privacy_processing": "已清除文档作者及身份元数据；PDF页面内容流或DOCX正文等其他条目校验未改动。原始备份仅在仓库外。"
+    },
+    {
+      "id": 5,
+      "path": "九上英语· 江岸区期中【答案】2025-2026.pdf",
+      "bytes": 1316136,
+      "sha256": "b73d5f43af391866371abf13d6e16e352be173c6e7bbfd04dc1891c67aecc4a9",
+      "pages": 3,
+      "text_chars": 27,
+      "page_text_chars": [
+        9,
+        9,
+        9
+      ],
+      "encrypted": false,
+      "subject": "英语",
+      "repository_path": "资料/原始资料/九上英语· 江岸区期中【答案】2025-2026.pdf",
+      "purpose": "仅作题型、设问与难度参考，不限定完整课程范围，不视为本人作答。",
+      "analysis": {
+        "id": 5,
+        "review": "3页扫描答案逐页缩略图浏览，放大第1页笔试答案、范文与解析。",
+        "topics": [
+          "江岸区笔试答案解析",
+          "校园成长交流范文"
+        ],
+        "notes": [
+          "配套ID6。",
+          "从第二部分笔试开始，未见听力答案及听力原文。",
+          "仅作为题型和资料参考，不代表完整知识范围或用户本人作答。"
+        ]
+      },
+      "rendering": {
+        "pages_checked": 3,
+        "all_pages_rendered": true,
+        "method": "PyMuPDF低分辨率逐页渲染，检查可见内容；不等同于逐字阅读或逐题验算。"
+      },
+      "substantive_text_pages": [],
+      "text_layer_note": "字数可能包含水印；没有有效题目文本层的页须查看原图。",
+      "source_sha256": "7a540f3e08feaff543f57460cca67737be4a38918edd95c3527685dbfc492e05",
+      "privacy_processing": "已清除文档作者及身份元数据；PDF页面内容流或DOCX正文等其他条目校验未改动。原始备份仅在仓库外。"
+    },
+    {
+      "id": 6,
+      "path": "九上英语· 江岸区期中【试卷】2025-2026.pdf",
+      "bytes": 3530202,
+      "sha256": "984e24cf74596c4742166d819670cb7a3d6701b65503f77f58a0eb0e65fef36a",
+      "pages": 12,
+      "text_chars": 696,
+      "page_text_chars": [
+        58,
+        58,
+        58,
+        58,
+        58,
+        58,
+        58,
+        58,
+        58,
+        58,
+        58,
+        58
+      ],
+      "encrypted": false,
+      "subject": "英语",
+      "repository_path": "资料/原始资料/九上英语· 江岸区期中【试卷】2025-2026.pdf",
+      "purpose": "仅作题型、设问与难度参考，不限定完整课程范围，不视为本人作答。",
+      "analysis": {
+        "id": 6,
+        "review": "12页扫描试卷逐页缩略图浏览，放大第12页作文，核对题型及填空页。",
+        "topics": [
+          "校园成长经验交流",
+          "校园创新教育",
+          "文物造型蛋糕",
+          "地球自转",
+          "动物照护",
+          "唐卡"
+        ],
+        "notes": [
+          "配套ID5；作文12页，填空11页。",
+          "英语卷120分，作文20分约100词。",
+          "仅作为题型和资料参考，不代表完整知识范围或用户本人作答。"
+        ]
+      },
+      "rendering": {
+        "pages_checked": 12,
+        "all_pages_rendered": true,
+        "method": "PyMuPDF低分辨率逐页渲染，检查可见内容；不等同于逐字阅读或逐题验算。"
+      },
+      "substantive_text_pages": [],
+      "text_layer_note": "字数可能包含水印；没有有效题目文本层的页须查看原图。",
+      "source_sha256": "b224eb3da2a85cd7ea857501c228eaee581ff64271e4f70a82bc3f839c200c4a",
+      "privacy_processing": "已清除文档作者及身份元数据；PDF页面内容流或DOCX正文等其他条目校验未改动。原始备份仅在仓库外。"
+    },
+    {
+      "id": 7,
+      "path": "九上英语· 江汉区期中【答案】2025-2026.pdf",
+      "bytes": 388833,
+      "sha256": "1acb99614b395be99ccc082ca2187752ca8ae7c9d27e6179feb7463aa08f8627",
+      "pages": 1,
+      "text_chars": 9,
+      "page_text_chars": [
+        9
+      ],
+      "encrypted": false,
+      "subject": "英语",
+      "repository_path": "资料/原始资料/九上英语· 江汉区期中【答案】2025-2026.pdf",
+      "purpose": "仅作题型、设问与难度参考，不限定完整课程范围，不视为本人作答。",
+      "analysis": {
+        "id": 7,
+        "review": "1页扫描答案已完整放大阅读。",
+        "topics": [
+          "江汉区全卷答案",
+          "Growth and Change参考范文"
+        ],
+        "notes": [
+          "配套ID8。",
+          "有听力答案选项，无音频或听力原文。",
+          "仅作为题型和资料参考，不代表完整知识范围或用户本人作答。"
+        ]
+      },
+      "rendering": {
+        "pages_checked": 1,
+        "all_pages_rendered": true,
+        "method": "PyMuPDF低分辨率逐页渲染，检查可见内容；不等同于逐字阅读或逐题验算。"
+      },
+      "substantive_text_pages": [],
+      "text_layer_note": "字数可能包含水印；没有有效题目文本层的页须查看原图。",
+      "source_sha256": "2b9a90498132b791625f166ae416617663fe1a58a7517232e96b0c5ae58d9cd2",
+      "privacy_processing": "已清除文档作者及身份元数据；PDF页面内容流或DOCX正文等其他条目校验未改动。原始备份仅在仓库外。"
+    },
+    {
+      "id": 8,
+      "path": "九上英语· 江汉区期中【试卷】2025-2026.pdf",
+      "bytes": 6663909,
+      "sha256": "a14935837a54f65d039ecce5abb4bad990c62c02e225c693fe3dbe3d94ae0a53",
+      "pages": 10,
+      "text_chars": 90,
+      "page_text_chars": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "encrypted": false,
+      "subject": "英语",
+      "repository_path": "资料/原始资料/九上英语· 江汉区期中【试卷】2025-2026.pdf",
+      "purpose": "仅作题型、设问与难度参考，不限定完整课程范围，不视为本人作答。",
+      "analysis": {
+        "id": 8,
+        "review": "10页扫描试卷逐页缩略图浏览，放大第10页综合填空和作文，核对题型。",
+        "topics": [
+          "Growth and Change",
+          "马铃薯",
+          "鸟类",
+          "钢琴演奏者",
+          "AI与工作",
+          "洋甘菊",
+          "表情符号"
+        ],
+        "notes": [
+          "配套ID7；作文10页，20分约100词。",
+          "仅作为题型和资料参考，不代表完整知识范围或用户本人作答。"
+        ]
+      },
+      "rendering": {
+        "pages_checked": 10,
+        "all_pages_rendered": true,
+        "method": "PyMuPDF低分辨率逐页渲染，检查可见内容；不等同于逐字阅读或逐题验算。"
+      },
+      "substantive_text_pages": [],
+      "text_layer_note": "字数可能包含水印；没有有效题目文本层的页须查看原图。",
+      "source_sha256": "335d861c9b8d1d5ed449ef6573350e5845b2cea8ead0625627d23af043deda9b",
+      "privacy_processing": "已清除文档作者及身份元数据；PDF页面内容流或DOCX正文等其他条目校验未改动。原始备份仅在仓库外。"
+    },
+    {
+      "id": 9,
+      "path": "九上英语· 洪山区期中【试卷+答案】2025-2026.pdf",
+      "bytes": 956358,
+      "sha256": "493eb45212f332c7b3f3bd75bdf862aef28e3e9c3881f3864510f493c5269b87",
+      "pages": 10,
+      "text_chars": 15342,
+      "page_text_chars": [
+        1135,
+        1451,
+        1540,
+        2044,
+        1767,
+        2308,
+        2091,
+        1469,
+        1528,
+        9
+      ],
+      "encrypted": false,
+      "subject": "英语",
+      "repository_path": "资料/原始资料/九上英语· 洪山区期中【试卷+答案】2025-2026.pdf",
+      "purpose": "仅作题型、设问与难度参考，不限定完整课程范围，不视为本人作答。",
+      "analysis": {
+        "id": 9,
+        "review": "已读取1—9页文本并浏览全卷缩略图，第10页图片答案已放大读取。",
+        "topics": [
+          "英语文化交流营申请信",
+          "AI科普新闻",
+          "青少年医学AI项目",
+          "书店转型",
+          "无糖饮料",
+          "奉茶礼仪"
+        ],
+        "notes": [
+          "试题1—9页，答案/范文10页。",
+          "作文81题20分约100词。",
+          "仅作为题型和资料参考，不代表完整知识范围或用户本人作答。"
+        ]
+      },
+      "rendering": {
+        "pages_checked": 10,
+        "all_pages_rendered": true,
+        "method": "PyMuPDF低分辨率逐页渲染，检查可见内容；不等同于逐字阅读或逐题验算。"
+      },
+      "substantive_text_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "text_layer_note": "字数可能包含水印；没有有效题目文本层的页须查看原图。",
+      "source_sha256": "599177eb7605c98b8becac31feeb6c8093fdef92362e79e77e5a80debebde187",
+      "privacy_processing": "已清除文档作者及身份元数据；PDF页面内容流或DOCX正文等其他条目校验未改动。原始备份仅在仓库外。"
+    },
+    {
+      "id": 10,
+      "path": "扫描的文稿7_答案版.pdf",
+      "bytes": 71998,
+      "sha256": "a3b0ff9da3e64ffd46c6b0c72662b2a46ae6b0f21f6a7a667bf20c8d7b03949b",
+      "pages": 2,
+      "text_chars": 2789,
+      "page_text_chars": [
+        1306,
+        1483
+      ],
+      "encrypted": false,
+      "subject": "英语",
+      "repository_path": "资料/原始资料/扫描的文稿7_答案版.pdf",
+      "purpose": "仅作题型、设问与难度参考，不限定完整课程范围，不视为本人作答。",
+      "analysis": {
+        "id": 10,
+        "review": "已读取完整2页答案文本。",
+        "topics": [
+          "纸质词典及词义辨析",
+          "英语教师访谈",
+          "补全句子",
+          "阅读问答",
+          "开放短答",
+          "汉译英"
+        ],
+        "notes": [
+          "仅答案版，缺少完整原文和原题。",
+          "第二篇第6问注明建议性补充，开放问答答案可不同。",
+          "仅作为题型和资料参考，不代表完整知识范围或用户本人作答。"
+        ]
+      },
+      "rendering": {
+        "pages_checked": 2,
+        "all_pages_rendered": true,
+        "method": "PyMuPDF低分辨率逐页渲染，检查可见内容；不等同于逐字阅读或逐题验算。"
+      },
+      "substantive_text_pages": [
+        1,
+        2
+      ],
+      "text_layer_note": "字数可能包含水印；没有有效题目文本层的页须查看原图。"
+    },
+    {
+      "id": 11,
+      "path": "数学-江岸区/九上数学· 江岸区期中【手写答案】2025-2026.pdf",
+      "bytes": 12757064,
+      "sha256": "3f732d031c56fcbc657d2af728d62b0fc8b7d3bdcbb206cf2d877d5ea10fe6d9",
+      "pages": 6,
+      "text_chars": 0,
+      "page_text_chars": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "encrypted": false,
+      "subject": "数学",
+      "repository_path": "资料/原始资料/数学-江岸区/九上数学· 江岸区期中【手写答案】2025-2026.pdf",
+      "purpose": "仅作题型、设问与难度参考，不限定完整课程范围，不视为本人作答。",
+      "analysis": {
+        "id": 11,
+        "review": "已用 PyMuPDF 将全部 6 页渲染，先总览后逐页查看；可见同卷手写参考解答和辅助图；未逐项验证答案。",
+        "topics": [
+          "同卷24题参考解答",
+          "圆与旋转几何",
+          "无刻度直尺网格作图",
+          "二次函数建模与压轴综合"
+        ],
+        "notes": [
+          "来源身份未确认，不视为本人答卷或官方标答。",
+          "源 PDF 有交叉引用对象缺失告警，但 6 页均渲染成功、无整页空白；密集手写批注仍需逐题放大复核，不等同于压缩包损坏。",
+          "所查看页面未见已填写的学生姓名、班级或学号。"
+        ]
+      },
+      "rendering": {
+        "pages_checked": 6,
+        "all_pages_rendered": true,
+        "method": "PyMuPDF低分辨率逐页渲染，检查可见内容；不等同于逐字阅读或逐题验算。"
+      },
+      "substantive_text_pages": [],
+      "text_layer_note": "字数可能包含水印；没有有效题目文本层的页须查看原图。",
+      "source_sha256": "d0c22d0c5c769d6a229066acf6970cc5acead42afde94fa6baabebffc9f166e6",
+      "privacy_processing": "已清除文档作者及身份元数据；PDF页面内容流或DOCX正文等其他条目校验未改动。原始备份仅在仓库外。"
+    },
+    {
+      "id": 12,
+      "path": "数学-江岸区/九上数学· 江岸区期中【试卷】2025-2026.pdf",
+      "bytes": 1805153,
+      "sha256": "c9d6839f8f66a99c469d9cf57142636e99c86f3c7611be7925f51e46dad20c2d",
+      "pages": 6,
+      "text_chars": 54,
+      "page_text_chars": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "encrypted": false,
+      "subject": "数学",
+      "repository_path": "资料/原始资料/数学-江岸区/九上数学· 江岸区期中【试卷】2025-2026.pdf",
+      "purpose": "仅作题型、设问与难度参考，不限定完整课程范围，不视为本人作答。",
+      "analysis": {
+        "id": 12,
+        "review": "6 页全部实际渲染与逐页查看；24 题，选择30、填空18、解答72，共120分；题干图形表格可读。",
+        "topics": [
+          "一元二次方程与根的性质",
+          "二次函数图像参数与整数值",
+          "对称与坐标",
+          "圆弧弦角与内接图形",
+          "旋转全等与中点",
+          "网格无刻度直尺作图",
+          "无人机二次函数建模",
+          "平移对称动点与定点综合"
+        ],
+        "notes": [
+          "无有效文本层，按 PDF 页码和题号查图。",
+          "题型参考资料，不能推出用户知识范围、掌握程度或错题；地区学年度来自文件名。",
+          "第22题跨第4—5页，第23题第5页，第24题第6页。",
+          "所查看页面未见已填写的学生姓名、班级或学号。"
+        ]
+      },
+      "rendering": {
+        "pages_checked": 6,
+        "all_pages_rendered": true,
+        "method": "PyMuPDF低分辨率逐页渲染，检查可见内容；不等同于逐字阅读或逐题验算。"
+      },
+      "substantive_text_pages": [],
+      "text_layer_note": "字数可能包含水印；没有有效题目文本层的页须查看原图。",
+      "source_sha256": "8548ccd932933a8333856a4e8d61fe22f957435eec84eb41e00d3f379333f6be",
+      "privacy_processing": "已清除文档作者及身份元数据；PDF页面内容流或DOCX正文等其他条目校验未改动。原始备份仅在仓库外。"
+    },
+    {
+      "id": 13,
+      "path": "断更朋友圈之后.pdf",
+      "bytes": 264872,
+      "sha256": "61c0ba1db6413b1193bf2326952d55fc7383b9fef6a17ffa4a326ef6644e6c9d",
+      "pages": 2,
+      "text_chars": 1983,
+      "page_text_chars": [
+        1416,
+        567
+      ],
+      "encrypted": false,
+      "subject": "语文",
+      "repository_path": "资料/原始资料/断更朋友圈之后.pdf",
+      "purpose": "仅作题型、设问与难度参考，不限定完整课程范围，不视为本人作答。",
+      "analysis": {
+        "id": 13,
+        "review": "全文2页文本已读并目视核对第2页答题区",
+        "topics": "文学类文本：原因概括、前后反差、语句含义、作者观点",
+        "notes": "原题空白答题区；与华宜第4–7题、武珞路第1–4题重合"
+      },
+      "rendering": {
+        "pages_checked": 2,
+        "all_pages_rendered": true,
+        "method": "PyMuPDF低分辨率逐页渲染，检查可见内容；不等同于逐字阅读或逐题验算。"
+      },
+      "substantive_text_pages": [
+        1,
+        2
+      ],
+      "text_layer_note": "字数可能包含水印；没有有效题目文本层的页须查看原图。",
+      "source_sha256": "68791f79292ce493e81dedb37df87c5e284188bcd0f5b82a0056838044ec5cfe",
+      "privacy_processing": "已清除文档作者及身份元数据；PDF页面内容流或DOCX正文等其他条目校验未改动。原始备份仅在仓库外。"
+    },
+    {
+      "id": 14,
+      "path": "物理-江岸区/九上物理· 江岸区期中【试卷+答案】2025-2026.pdf",
+      "bytes": 1745091,
+      "sha256": "24e1d00f0ba854b0ecc8945cf6581534cd79e54590db69dd37c752dbeb5d07d3",
+      "pages": 11,
+      "text_chars": 6274,
+      "page_text_chars": [
+        615,
+        454,
+        590,
+        763,
+        615,
+        472,
+        436,
+        810,
+        434,
+        404,
+        681
+      ],
+      "encrypted": false,
+      "subject": "物理",
+      "repository_path": "资料/原始资料/物理-江岸区/九上物理· 江岸区期中【试卷+答案】2025-2026.pdf",
+      "purpose": "仅作题型、设问与难度参考，不限定完整课程范围，不视为本人作答。",
+      "analysis": {
+        "id": 14,
+        "review": "已读完整提取文本并看全卷11页缩略图，放大题头与关键图；试卷1—8页、答案9—11页。",
+        "topics": [
+          "分子运动与内能",
+          "热量、热值、比热容",
+          "热机与能量转化",
+          "串并联电路",
+          "电表接线与读数",
+          "欧姆定律",
+          "动态电路与传感器",
+          "实验控制变量"
+        ],
+        "notes": [
+          "仅题型参考，非本人错题或知识范围上限。",
+          "非选择题头误写12小题60分；实际13—19合34分，加选择36分共70分。",
+          "公式及电路需原图复核，未逐题独立验算答案。",
+          "未见填写的姓名/班级/学号或本人作答。"
+        ]
+      },
+      "rendering": {
+        "pages_checked": 11,
+        "all_pages_rendered": true,
+        "method": "PyMuPDF低分辨率逐页渲染，检查可见内容；不等同于逐字阅读或逐题验算。"
+      },
+      "substantive_text_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "text_layer_note": "字数可能包含水印；没有有效题目文本层的页须查看原图。",
+      "source_sha256": "3deb430ab084b3e7d3b95534f245099cbcf25c334839d0d82cebe3309989faba",
+      "privacy_processing": "已清除文档作者及身份元数据；PDF页面内容流或DOCX正文等其他条目校验未改动。原始备份仅在仓库外。"
+    },
+    {
+      "id": 15,
+      "path": "物理-江汉区/九上物理· 江汉区期中【答案】2025-2026.pdf",
+      "bytes": 1618180,
+      "sha256": "d9c24c3c0802f3decc9ff3d604d3d82c0b218f883e46e6531c0ab9b122e15d4d",
+      "pages": 2,
+      "text_chars": 18,
+      "page_text_chars": [
+        9,
+        9
+      ],
+      "encrypted": false,
+      "subject": "物理",
+      "repository_path": "资料/原始资料/物理-江汉区/九上物理· 江汉区期中【答案】2025-2026.pdf",
+      "purpose": "仅作题型、设问与难度参考，不限定完整课程范围，不视为本人作答。",
+      "analysis": {
+        "id": 15,
+        "review": "两页扫描答案均渲染并实际阅读；无有效题目文本层。",
+        "topics": [
+          "电流和电压实验",
+          "电阻影响因素",
+          "滑动变阻器",
+          "热机效率与耗油量"
+        ],
+        "notes": [
+          "配套ID16。答案题头称9小题，实际非选择11题；把试卷25、26误排成23、24，须按内容配对。",
+          "接线图已看，不代表已逐题独立校验全部答案。",
+          "未见填写的姓名/班级/学号或本人作答。"
+        ]
+      },
+      "rendering": {
+        "pages_checked": 2,
+        "all_pages_rendered": true,
+        "method": "PyMuPDF低分辨率逐页渲染，检查可见内容；不等同于逐字阅读或逐题验算。"
+      },
+      "substantive_text_pages": [],
+      "text_layer_note": "字数可能包含水印；没有有效题目文本层的页须查看原图。",
+      "source_sha256": "66f75878dac453ce54ae5c87f7af631393fef6d4e62b5b5db725e670ed36c7a2",
+      "privacy_processing": "已清除文档作者及身份元数据；PDF页面内容流或DOCX正文等其他条目校验未改动。原始备份仅在仓库外。"
+    },
+    {
+      "id": 16,
+      "path": "物理-江汉区/九上物理· 江汉区期中【试卷】2025-2026.pdf",
+      "bytes": 2556772,
+      "sha256": "7158ffd46577ef3778a4f3a8680aaef9134cb7c5a5218bae4cdf2792e1c5c172",
+      "pages": 10,
+      "text_chars": 680,
+      "page_text_chars": [
+        68,
+        68,
+        68,
+        68,
+        68,
+        68,
+        68,
+        68,
+        68,
+        68
+      ],
+      "encrypted": false,
+      "subject": "物理",
+      "repository_path": "资料/原始资料/物理-江汉区/九上物理· 江汉区期中【试卷】2025-2026.pdf",
+      "purpose": "仅作题型、设问与难度参考，不限定完整课程范围，不视为本人作答。",
+      "analysis": {
+        "id": 16,
+        "review": "10页全部用PyMuPDF成功渲染并看缩略图；放大阅读1、6—10页，题干图表主要内容可辨。",
+        "topics": [
+          "内能与热量",
+          "热机效率与能量转化",
+          "比热容实验",
+          "分子作用力",
+          "串并联电流电压实验",
+          "电路故障",
+          "电阻的影响因素",
+          "滑动变阻器与电位器"
+        ],
+        "notes": [
+          "原PDF交叉引用对象73/89缺失告警；可渲染阅读，但不保证所有细小图形均完整。",
+          "没有有效题目文本层，需看原图。",
+          "选择15×3=45；非选择16—26合55；全卷100分。第II卷55分标题下的非选择题头误写45分。",
+          "仅题型参考，不能将100分卷直接与用户68/70估分作对比。",
+          "未见填写的姓名/班级/学号或本人作答。"
+        ]
+      },
+      "rendering": {
+        "pages_checked": 10,
+        "all_pages_rendered": true,
+        "method": "PyMuPDF低分辨率逐页渲染，检查可见内容；不等同于逐字阅读或逐题验算。"
+      },
+      "substantive_text_pages": [],
+      "text_layer_note": "字数可能包含水印；没有有效题目文本层的页须查看原图。",
+      "source_sha256": "1ab95b8d2295351f38ddbb924e431d28ea0cfa8d2d190e703a190ce9b59a436a",
+      "privacy_processing": "已清除文档作者及身份元数据；PDF页面内容流或DOCX正文等其他条目校验未改动。原始备份仅在仓库外。"
+    },
+    {
+      "id": 17,
+      "path": "第5单元选择题测试.docx",
+      "bytes": 1057033,
+      "sha256": "6c286d94303538d3e27bf782e9cc090c63141642fc8254d5ff43a8ac3559db7f",
+      "text_chars": 4517,
+      "inline_shapes": 4,
+      "paragraphs": 115,
+      "subject": "历史",
+      "repository_path": "资料/原始资料/第5单元选择题测试.docx",
+      "purpose": "仅作题型、设问与难度参考，不限定完整课程范围，不视为本人作答。",
+      "analysis": {
+        "id": 17,
+        "review": "已完整读取 DOCX 正文、1 张表格及文本框，并查看全部 10 个独立媒体图像；按题干顺序 37 道单选，未发现答案或解析页。姓名班级学号字段空白，无本人选项、成绩、批改或用时证据。",
+        "topics": [
+          "西欧城市自由与自治",
+          "租地农场、手工工场与雇佣关系",
+          "文艺复兴、人文主义、人物作品",
+          "新航路开辟与物种交流",
+          "早期殖民扩张与三角贸易",
+          "史料概括、结构图、地图、表格、漫画与历史评价选择题"
+        ],
+        "notes": [
+          "仅作题型参考，不能作为用户知识点范围、本人学习进度或考试表现的依据。",
+          "原卷标题为27届九上第五单元选择题测试；第7题点名第13课西欧经济社会的发展，不能据此认定用户教材版本或届别。",
+          "第21题额外D项及重复选项等错乱，需要原稿核对，不宜直接计分。",
+          "第1、26、31题等用自动编号；纯文本不显示编号并非原卷必然缺题。第36题A–D在图内。",
+          "图片包括第6–8结构图、第25传播图、第30航线图、第34漫画、第35–36三角贸易图，以及2个小手写碎片，含重复引用。",
+          "姓名班级学号字段未见个人填写值；两小图不作为本人作答证据。",
+          "未新增答案或复制全卷；历史.md已补资料目录、可迁移技能及原件问题说明。"
+        ]
+      },
+      "embedded_media_files": 10,
+      "source_sha256": "e8e7616eaf056f540131ede0e8cbad4c814a51d7bee4d9fd7efc68776cc1918c",
+      "privacy_processing": "已清除文档作者及身份元数据；PDF页面内容流或DOCX正文等其他条目校验未改动。原始备份仅在仓库外。"
+    },
+    {
+      "id": 18,
+      "path": "语文-华宜寄宿/九上语文· 华宜寄宿期中【答案】2025-2026.pdf",
+      "bytes": 521033,
+      "sha256": "008b97b2bdcbb46924e63e67b7cf6f82c81e83bcc3e73256a22b6f0a2bb0b08d",
+      "pages": 7,
+      "text_chars": 6306,
+      "page_text_chars": [
+        886,
+        1096,
+        1140,
+        1241,
+        930,
+        644,
+        369
+      ],
+      "encrypted": false,
+      "subject": "语文",
+      "repository_path": "资料/原始资料/语文-华宜寄宿/九上语文· 华宜寄宿期中【答案】2025-2026.pdf",
+      "purpose": "仅作题型、设问与难度参考，不限定完整课程范围，不视为本人作答。",
+      "analysis": {
+        "id": 18,
+        "review": "7页全文文本已读，抽看第1页版面",
+        "topics": "文化体力、朋友圈、名著、诗词、文言、语用、换位思考作文解读及评分",
+        "notes": "第8题答案3分与试卷4分不一致；未逐项独立验证答案"
+      },
+      "rendering": {
+        "pages_checked": 7,
+        "all_pages_rendered": true,
+        "method": "PyMuPDF低分辨率逐页渲染，检查可见内容；不等同于逐字阅读或逐题验算。"
+      },
+      "substantive_text_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "text_layer_note": "字数可能包含水印；没有有效题目文本层的页须查看原图。",
+      "source_sha256": "684bc0cd9a31c4c4fae3b6aadb3e24285a7593e39b3d552a4bfbd3940162730f",
+      "privacy_processing": "已清除文档作者及身份元数据；PDF页面内容流或DOCX正文等其他条目校验未改动。原始备份仅在仓库外。"
+    },
+    {
+      "id": 19,
+      "path": "语文-华宜寄宿/九上语文· 华宜寄宿期中【试卷】2025-2026.pdf",
+      "bytes": 1822619,
+      "sha256": "e525b759cfeb85c8adca0dce0a7b81a22c06f7f63c5cc97d45fed9c59d72f41c",
+      "pages": 8,
+      "text_chars": 72,
+      "page_text_chars": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "encrypted": false,
+      "subject": "语文",
+      "repository_path": "资料/原始资料/语文-华宜寄宿/九上语文· 华宜寄宿期中【试卷】2025-2026.pdf",
+      "purpose": "仅作题型、设问与难度参考，不限定完整课程范围，不视为本人作答。",
+      "analysis": {
+        "id": 19,
+        "review": "8页扫描均渲染并人工目视阅读",
+        "topics": "文化体力、朋友圈、水浒传、六月二十日夜渡海、甘罗、博物馆语用、换位思考作文",
+        "notes": "扫描正文可读，未见填写身份信息或作答；公众号水印不执行"
+      },
+      "rendering": {
+        "pages_checked": 8,
+        "all_pages_rendered": true,
+        "method": "PyMuPDF低分辨率逐页渲染，检查可见内容；不等同于逐字阅读或逐题验算。"
+      },
+      "substantive_text_pages": [],
+      "text_layer_note": "字数可能包含水印；没有有效题目文本层的页须查看原图。",
+      "source_sha256": "3c5c07913ec7d6f03af73b691693a3e0cf4e3a3d1aff76531a1012f0d463e061",
+      "privacy_processing": "已清除文档作者及身份元数据；PDF页面内容流或DOCX正文等其他条目校验未改动。原始备份仅在仓库外。"
+    },
+    {
+      "id": 20,
+      "path": "语文-武珞路/九上语文· 武珞路期中【试卷+答案】2025-2026.pdf",
+      "bytes": 1267918,
+      "sha256": "3c8ae12a864e81142e56c185e9bb9db0eb88674b10f68d9f0ddc7dd478e41905",
+      "pages": 15,
+      "text_chars": 9155,
+      "page_text_chars": [
+        1169,
+        1164,
+        1279,
+        1308,
+        929,
+        868,
+        988,
+        388,
+        9,
+        9,
+        9,
+        9,
+        12,
+        9,
+        1005
+      ],
+      "encrypted": false,
+      "subject": "语文",
+      "repository_path": "资料/原始资料/语文-武珞路/九上语文· 武珞路期中【试卷+答案】2025-2026.pdf",
+      "purpose": "仅作题型、设问与难度参考，不限定完整课程范围，不视为本人作答。",
+      "analysis": {
+        "id": 20,
+        "review": "1–8及15页文本已读，9–14页扫描答案均人工目视",
+        "topics": "朋友圈、文化体力、名著诗文、语用、换位思考作文",
+        "notes": "答案前7题仍沿用华宜顺序，需按题干匹配；同题不当新诊断样本"
+      },
+      "rendering": {
+        "pages_checked": 15,
+        "all_pages_rendered": true,
+        "method": "PyMuPDF低分辨率逐页渲染，检查可见内容；不等同于逐字阅读或逐题验算。"
+      },
+      "substantive_text_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        15
+      ],
+      "text_layer_note": "字数可能包含水印；没有有效题目文本层的页须查看原图。",
+      "source_sha256": "f319ffd47b0e0f81897427d2b68a5a3f3cdc575896af2d60f68dcf01245dcd27",
+      "privacy_processing": "已清除文档作者及身份元数据；PDF页面内容流或DOCX正文等其他条目校验未改动。原始备份仅在仓库外。"
+    },
+    {
+      "id": 21,
+      "path": "语文-江岸区/九上语文· 江岸区期中【试卷+答案】2025-2026.pdf",
+      "bytes": 710642,
+      "sha256": "0e8a5db6ed89f35e9c950dc3d12a81e51e99dd2d612234cfab015df7ec709a1a",
+      "pages": 11,
+      "text_chars": 7215,
+      "page_text_chars": [
+        953,
+        928,
+        1221,
+        1063,
+        914,
+        598,
+        1028,
+        483,
+        9,
+        9,
+        9
+      ],
+      "encrypted": false,
+      "subject": "语文",
+      "repository_path": "资料/原始资料/语文-江岸区/九上语文· 江岸区期中【试卷+答案】2025-2026.pdf",
+      "purpose": "仅作题型、设问与难度参考，不限定完整课程范围，不视为本人作答。",
+      "analysis": {
+        "id": 21,
+        "review": "1–8页文本已读，9–11页扫描答案均人工目视",
+        "topics": "金羊毛、孩子诗语、水浒传、南海旅次、徐阶、默写、山水画语用、风雨筑巢作文",
+        "notes": "扫描答案可读；作文重点是发现自身缺陷后针对改进"
+      },
+      "rendering": {
+        "pages_checked": 11,
+        "all_pages_rendered": true,
+        "method": "PyMuPDF低分辨率逐页渲染，检查可见内容；不等同于逐字阅读或逐题验算。"
+      },
+      "substantive_text_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "text_layer_note": "字数可能包含水印；没有有效题目文本层的页须查看原图。",
+      "source_sha256": "55fa576bb5d2111cea647fd817bd4fe2e4dee2d13275f2042200c5d3d00b7756",
+      "privacy_processing": "已清除文档作者及身份元数据；PDF页面内容流或DOCX正文等其他条目校验未改动。原始备份仅在仓库外。"
+    },
+    {
+      "id": 22,
+      "path": "语文-江汉区/九上语文· 江汉区期中【试卷+答案】2025-2026.pdf",
+      "bytes": 755424,
+      "sha256": "333ad09bca4512e43475c11eeb9373ce9c0482920f74891bf0c49fa4404b9bbf",
+      "pages": 10,
+      "text_chars": 9762,
+      "page_text_chars": [
+        1171,
+        1217,
+        1230,
+        942,
+        898,
+        767,
+        689,
+        1489,
+        858,
+        501
+      ],
+      "encrypted": false,
+      "subject": "语文",
+      "repository_path": "资料/原始资料/语文-江汉区/九上语文· 江汉区期中【试卷+答案】2025-2026.pdf",
+      "purpose": "仅作题型、设问与难度参考，不限定完整课程范围，不视为本人作答。",
+      "analysis": {
+        "id": 22,
+        "review": "10页全文文本已读，抽看首页、作文第7页、答案第8页",
+        "topics": "输出型爱好、自然与写作、秦明、水浒传、送唐别驾赴郢州、白居易、故宫语用、事实与情绪作文",
+        "notes": "答案及例文为参考；未逐题验证；文本页边角未全人工复核"
+      },
+      "rendering": {
+        "pages_checked": 10,
+        "all_pages_rendered": true,
+        "method": "PyMuPDF低分辨率逐页渲染，检查可见内容；不等同于逐字阅读或逐题验算。"
+      },
+      "substantive_text_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "text_layer_note": "字数可能包含水印；没有有效题目文本层的页须查看原图。",
+      "source_sha256": "0738ceb84815cbba9dc5c91fe2b644b7d6accc97e92e56940817be38b745f277",
+      "privacy_processing": "已清除文档作者及身份元数据；PDF页面内容流或DOCX正文等其他条目校验未改动。原始备份仅在仓库外。"
+    },
+    {
+      "id": 23,
+      "path": "语文-洪山区/九上语文· 洪山区期中【答案】2025-2026.pdf",
+      "bytes": 1327110,
+      "sha256": "3f476045b2a729cecf50fcfe9ed01f261dfb184b75b547ee56f9ff4202395b7b",
+      "pages": 2,
+      "text_chars": 22,
+      "page_text_chars": [
+        13,
+        9
+      ],
+      "encrypted": false,
+      "subject": "语文",
+      "repository_path": "资料/原始资料/语文-洪山区/九上语文· 洪山区期中【答案】2025-2026.pdf",
+      "purpose": "仅作题型、设问与难度参考，不限定完整课程范围，不视为本人作答。",
+      "analysis": {
+        "id": 23,
+        "review": "2页扫描答案均渲染并人工目视阅读",
+        "topics": "语言文化、树语人生、小雷音寺、诗词文言、语用、适合自己发展方向作文评分",
+        "notes": "扫描答案清晰可读；未见用户填写信息；特殊评分规则仅属该材料"
+      },
+      "rendering": {
+        "pages_checked": 2,
+        "all_pages_rendered": true,
+        "method": "PyMuPDF低分辨率逐页渲染，检查可见内容；不等同于逐字阅读或逐题验算。"
+      },
+      "substantive_text_pages": [],
+      "text_layer_note": "字数可能包含水印；没有有效题目文本层的页须查看原图。",
+      "source_sha256": "df040740d36e7b19cdf87ebaa6c20c25e8a9c04644808c8ded1806f762a9942e",
+      "privacy_processing": "已清除文档作者及身份元数据；PDF页面内容流或DOCX正文等其他条目校验未改动。原始备份仅在仓库外。"
+    },
+    {
+      "id": 24,
+      "path": "语文-洪山区/九上语文· 洪山区期中【试卷】2025-2026.pdf",
+      "bytes": 417488,
+      "sha256": "809f8fa7557e17b6c2c71fe4fb0132b5bcc412e6f5782b2c078d0217d0159437",
+      "pages": 6,
+      "text_chars": 6558,
+      "page_text_chars": [
+        1481,
+        1281,
+        1088,
+        1262,
+        1204,
+        242
+      ],
+      "encrypted": false,
+      "subject": "语文",
+      "repository_path": "资料/原始资料/语文-洪山区/九上语文· 洪山区期中【试卷】2025-2026.pdf",
+      "purpose": "仅作题型、设问与难度参考，不限定完整课程范围，不视为本人作答。",
+      "analysis": {
+        "id": 24,
+        "review": "6页全文文本已读，抽看首页和作文末页",
+        "topics": "语言文化、树语人生、西游记、湖口送友人、司马穰苴、河流文明语用、发展方向作文",
+        "notes": "部分解析资源告警但审阅页面仍可读；未逐页检查文本页边角"
+      },
+      "rendering": {
+        "pages_checked": 6,
+        "all_pages_rendered": true,
+        "method": "PyMuPDF低分辨率逐页渲染，检查可见内容；不等同于逐字阅读或逐题验算。"
+      },
+      "substantive_text_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "text_layer_note": "字数可能包含水印；没有有效题目文本层的页须查看原图。",
+      "source_sha256": "90b31422c23511cddad2288370c553faa854c7ab7f67c60963d569aaa0cca437",
+      "privacy_processing": "已清除文档作者及身份元数据；PDF页面内容流或DOCX正文等其他条目校验未改动。原始备份仅在仓库外。"
+    }
+  ],
+  "privacy_note": "仓库为清理身份元数据后的资料副本；题目与答案内容未改。上传原件仅保存在仓库外本地备份。"
+}
