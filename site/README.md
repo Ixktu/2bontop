@@ -58,3 +58,4 @@ DNS 生效后回到 GitHub Pages，等待 DNS check 和证书就绪，再勾选 
 - 页面已返回 GitHub 的 404，说明这次请求已到 GitHub；还需检查 Actions 是否成功部署，以及 Pages 的 Source、域名是否保存正确。
 - 2026-10-18 最近一次旧工作流失败于 `configure-pages` 创建站点，日志为 `Resource not accessible by integration`。先在设置启用 GitHub Actions，再重新发布；不能靠等待 DNS 修复这类发布失败。
 - 发布成功后再检查域名，等待证书就绪并开启 Enforce HTTPS。域名面板的“SSL申请”无需用于 GitHub Pages。
+- 启用 Pages 或保存自定义域名后，如果 Actions 仍只显示此前的失败记录，打开 Publish 2Bon 工作流，点击 Run workflow，选择 main 再运行；检查新一次运行的 Deploy 步骤成功。仓库设为公开或保存 DNS 不会把旧失败记录自动变成成功。
