@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f8f6f0">
+  <meta name="description" content="2Bon↑ 成绩记录、目标与考试复盘。">
+  <title>2Bon↑</title>
+  <link rel="icon" href="assets/mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">跳到内容</a>
+  <div class="paper">
+    <header class="masthead">
+      <a class="wordmark" href="#scores" aria-label="2Bon↑ 首页">2Bon<span class="brand-arrow" aria-hidden="true">↑</span></a>
+      <nav aria-label="主要导航">
+        <a href="#scores" data-tab="scores" aria-current="page">成绩</a>
+        <a href="#goals" data-tab="goals">目标</a>
+        <a href="#review" data-tab="review">复盘</a>
+      </nav>
+    </header>
+    <main id="main" tabindex="-1">
+      <p id="loading" class="state-message" role="status">正在读取成绩…</p>
+      <section id="scores" class="view" aria-label="成绩" hidden></section>
+      <section id="goals" class="view" aria-label="目标" hidden></section>
+      <section id="review" class="view" aria-label="复盘" hidden></section>
+    </main>
+    <footer><span>2Bon↑</span><time id="updated"></time></footer>
+  </div>
+</body>
+</html>

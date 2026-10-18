@@ -2,7 +2,7 @@
   "schema_version": 1,
   "import_date": "2026-10-17",
   "timezone": "Asia/Shanghai",
-  "source": "用户上传的Documents两个分卷；不是完整电脑Documents目录扫描。",
+  "source": "Documents分卷原件24份，以及随后单独上传的语文教参文字整理版1份。",
   "source_parts": [
     {
       "name": "Documents.7z.001",
@@ -16,9 +16,9 @@
     }
   ],
   "combined_archive_sha256": "fb0cceb05d7d33e8183f78a179eb82ce24aff462b177d9f0acbc027a58605897",
-  "file_count": 24,
-  "total_bytes": 45349777,
-  "pdf_page_count": 176,
+  "file_count": 25,
+  "total_bytes": 46903785,
+  "pdf_page_count": 453,
   "originals_preserved": false,
   "scope": "题型参考，不限定全部知识点，不能用于认定用户当前进度、掌握度或真实成绩。",
   "files": [
@@ -1168,7 +1168,34 @@
       "text_layer_note": "字数可能包含水印；没有有效题目文本层的页须查看原图。",
       "source_sha256": "90b31422c23511cddad2288370c553faa854c7ab7f67c60963d569aaa0cca437",
       "privacy_processing": "已清除文档作者及身份元数据；PDF页面内容流或DOCX正文等其他条目校验未改动。原始备份仅在仓库外。"
+    },
+    {
+      "id": 25,
+      "path": "语文教参/新方法语文中考教用_文字整理版.pdf",
+      "repository_path": "资料/原始资料/语文教参/新方法语文中考教用_文字整理版.pdf",
+      "subject": "语文",
+      "bytes": 1554008,
+      "sha256": "c992536a6ae72910c70b19315b89d6f967df72e592ee9bb30319a016c522fcf2",
+      "pages": 277,
+      "source": "用户2026-10-18单独上传的文字整理版，不属于Documents分卷",
+      "purpose": "方法参考与相似题推荐，不要求刷完，不限定知识范围",
+      "analysis": {
+        "review": "阅读方法页、代表题与综合卷概览，索引见资料/语文教参/新方法_使用索引.md；未逐题验答，原扫描件未提供。",
+        "topics": [
+          "现代文阅读",
+          "名著",
+          "古诗文",
+          "语言运用",
+          "材料作文"
+        ],
+        "notes": [
+          "部分文字识别、页码、选项和题答存在错配，按索引排除或复核。"
+        ]
+      },
+      "source_sha256": "88a542e61098bc58c7f47e272646b3f28345d39dd2561904b5f964dee8a6ea16",
+      "privacy_processing": "已清除文档作者及身份元数据；PDF页面内容流或DOCX正文等其他条目校验未改动。原始备份仅在仓库外。"
     }
   ],
+  "updated_date": "2026-10-18",
   "privacy_note": "仓库为清理身份元数据后的资料副本；题目与答案内容未改。上传原件仅保存在仓库外本地备份。"
 }

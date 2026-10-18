@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-18",
+  "subjects": [
+    {"id": "chinese", "name": "语文", "max": 120, "lossWeight": 3},
+    {"id": "math", "name": "数学", "max": 120, "lossWeight": 0.5},
+    {"id": "english", "name": "英语", "max": 120, "lossWeight": 1},
+    {"id": "politics", "name": "道法", "max": 60, "lossWeight": 0.6},
+    {"id": "history", "name": "历史", "max": 60, "lossWeight": 0.6},
+    {"id": "physics", "name": "物理", "max": 70, "lossWeight": 0.8},
+    {"id": "chemistry", "name": "化学", "max": 50, "lossWeight": 0.8}
+  ],
+  "records": [
+    {
+      "id": "estimate-2026-10-17",
+      "label": "最近一次估分",
+      "recordedAt": "2026-10-17",
+      "examDate": null,
+      "status": "estimate",
+      "scores": {"chinese": 100, "math": 104, "english": 114, "politics": 60, "history": 59, "physics": 68, "chemistry": 49},
+      "review": {"summary": null, "lossAnalysis": null, "nextSteps": null, "prediction": null}
+    }
+  ],
+  "goals": {"school": "华师一附中", "className": null, "targetTotal": null, "fixedScores": {}},
+  "schoolBands": []
+}
