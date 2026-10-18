@@ -26,7 +26,7 @@ Noto Serif SC 来自 `@fontsource/noto-serif-sc@5.3.1`，EB Garamond 来自 `@fo
 
 ## GitHub Pages
 
-`.github/workflows/pages.yml` 在 `main` 上的本目录更新时发布，只上传 `site/`。首次部署尝试启用 Pages；若仓库套餐/权限不允许自动启用，需要在仓库 Settings → Pages 中选择 GitHub Actions，随后重跑工作流。不能把工作流文件已提交等同于线上已部署。
+`.github/workflows/pages.yml` 在 `main` 上的本目录更新时发布，只上传 `site/`。先在仓库 Settings → Pages 的 Source 选择 GitHub Actions，工作流使用已启用的 Pages，不尝试创建站点。不能把工作流文件已提交等同于线上已部署。
 
 ## 自定义域名：2bon.top
 
@@ -51,3 +51,10 @@ TTL 使用默认值或600秒，解析线路用默认；若面板有代理选项�
 DNS 生效后回到 GitHub Pages，等待 DNS check 和证书就绪，再勾选 **Enforce HTTPS**。证书准备时间与DNS传播有关，不承诺即时完成；未实际检查前不记录为已启用。
 
 官方依据：[Managing a custom domain for your GitHub Pages site](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)。本次已从 GitHub 官方 docs 仓库核对四条 A 地址及 Actions 下 CNAME 文件的行为。
+
+### DNS 警告与 404 排查
+
+- `DNS valid for primary` 表示根域名检查有效。若警告具体指向 `www.2bon.top`，在域名面板补 `CNAME www → ixktu.github.io`，已有四条根域名 A 记录保留。确保 www 没有冲突的 A、AAAA 或 CNAME。
+- 页面已返回 GitHub 的 404，说明这次请求已到 GitHub；还需检查 Actions 是否成功部署，以及 Pages 的 Source、域名是否保存正确。
+- 2026-10-18 最近一次旧工作流失败于 `configure-pages` 创建站点，日志为 `Resource not accessible by integration`。先在设置启用 GitHub Actions，再重新发布；不能靠等待 DNS 修复这类发布失败。
+- 发布成功后再检查域名，等待证书就绪并开启 Enforce HTTPS。域名面板的“SSL申请”无需用于 GitHub Pages。
