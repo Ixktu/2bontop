@@ -28,4 +28,26 @@ Noto Serif SC 来自 `@fontsource/noto-serif-sc@5.3.1`，EB Garamond 来自 `@fo
 
 `.github/workflows/pages.yml` 在 `main` 上的本目录更新时发布，只上传 `site/`。首次部署尝试启用 Pages；若仓库套餐/权限不允许自动启用，需要在仓库 Settings → Pages 中选择 GitHub Actions，随后重跑工作流。不能把工作流文件已提交等同于线上已部署。
 
-用户计划稍后设置域名，因此当前不创建 CNAME，不修改已有域名解析。启用成功后的项目默认地址由 GitHub Pages 返回；部署状态以 Actions 和实际 HTTP 响应为准。
+## 自定义域名：2bon.top
+
+2026-10-18 用户授权绑定原有域名 `2bon.top`。`site/CNAME` 记录该域名；**本项目使用 GitHub Actions 发布，GitHub 官方说明该模式忽略 CNAME 文件，域名仍必须在仓库 Pages 设置中保存，文件提交不等于绑定成功。** 当前云网络对 GitHub Pages 管理 API 返回 Forbidden，尚未从本任务保存或核实后台的自定义域名、部署及 HTTPS 状态。
+
+先在 [Actions](https://github.com/Ixktu/2bontop/actions/workflows/pages.yml) 确认 Publish 2Bon 发布成功，然后打开 [Settings → Pages](https://github.com/Ixktu/2bontop/settings/pages)：
+
+1. Build and deployment → Source 选择 **GitHub Actions**。
+2. Custom domain 填 **`2bon.top`**，点击 **Save**。先保存 GitHub 端域名，再调整 DNS。
+3. 在域名服务商管理面板进入“DNS 解析／解析记录”，把根域名 `@` 原来指向旧站的 A、AAAA 或 CNAME 冲突记录替换为下表配置。不要删除邮箱等无关记录。
+
+| 记录类型 | 主机记录 | 记录值 |
+|---|---|---|
+| A | @ | 185.199.108.153 |
+| A | @ | 185.199.109.153 |
+| A | @ | 185.199.110.153 |
+| A | @ | 185.199.111.153 |
+| CNAME（可选，启用 www） | www | ixktu.github.io |
+
+TTL 使用默认值或600秒，解析线路用默认；若面板有代理选项，初次配置先用“仅DNS”。`www` 的 CNAME 目标只写主机名，不加协议、仓库路径或端口。不再使用旧 Sites 的两条根域名 A 地址。
+
+DNS 生效后回到 GitHub Pages，等待 DNS check 和证书就绪，再勾选 **Enforce HTTPS**。证书准备时间与DNS传播有关，不承诺即时完成；未实际检查前不记录为已启用。
+
+官方依据：[Managing a custom domain for your GitHub Pages site](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)。本次已从 GitHub 官方 docs 仓库核对四条 A 地址及 Actions 下 CNAME 文件的行为。
