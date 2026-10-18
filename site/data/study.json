@@ -21,6 +21,6 @@
       "review": {"summary": null, "lossAnalysis": null, "nextSteps": null, "prediction": null}
     }
   ],
-  "goals": {"school": "华师一附中", "className": null, "targetTotal": null, "fixedScores": {}},
+  "goals": {"school": "华师一附中", "className": "讯飞班", "targetTotal": 577, "fixedScores": {"chinese": 105, "math": 117, "english": 115, "politics": 60, "history": 60, "physics": 70, "chemistry": 50}},
   "schoolBands": []
 }
